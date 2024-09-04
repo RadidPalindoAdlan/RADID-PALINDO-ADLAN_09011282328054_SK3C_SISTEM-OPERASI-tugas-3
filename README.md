@@ -64,10 +64,12 @@ Perintah **sudo apt install btop** digunakan untuk mengunduh dan menginstal apli
 
 ## 15. touch
 **touch** di Linux digunakan untuk membuat file dengan format apapun
+
 <img src="14(2).png" style="width:100"/>
 
 ## 16. cat
 **cat** di Linux digunakan untuk mengisi file lewat terminal
+
 <img src="14(3).png" style="width:100"/>
 
 ## 17. who
