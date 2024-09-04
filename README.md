@@ -173,14 +173,33 @@ Perintah **sudo apt install btop** digunakan untuk mengunduh dan menginstal apli
 <img src="39.png" style="width:100"/>
 
 ## 41. zip
-**zip** untuk mengekstrak file kedalam bentuk zip.
+**zip** di Linux digunakan untuk mengekstrak file kedalam bentuk zip.
 <img src="40.png" style="width:100"/>
 
 ## 42. unzip
-**unzip** untuk mengekstrak file.zip.
+**unzip** di Linux digunakan untuk mengekstrak file.zip.
 <img src="41.png" style="width:100"/>
 
-## 43. unzip
-**unzip** untuk mengekstrak file.zip.
+## 43. wc
+**wc** di Linux digunakan untuk menghitung jumlah baris, kata, dan karakter dalam suatu file
 <img src="42.png" style="width:100"/>
 
+## 44. sort
+**sort** di Linux digunakan untuk menyusun suatu isi file berdasarkan abjad atau angka secara terurut
+<img src="43.png" style="width:100"/>
+
+## 45. locate
+**locate** di Linux digunakan untuk mencari suatu file atau direktori menggunakan nama
+<img src="44.png" style="width:100"/>
+
+## 46. env
+**env** di Linux digunakan untuk menampilkan atau memodifikasi suatu variabel dalam suatu lingkungan
+<img src="45.png" style="width:100"/>
+
+## 47. last
+**last** di Linux digunakan untuk mengetahui data suatu user seperti kapan mereka masuk, darimana, serta kapan mereka keluar
+<img src="46.png" style="width:100"/>
+
+## 48. vmstat
+**last** di Linux digunakan untuk mengetahui informasi sistem tentang penggunaan memori, swap, cpu, serta input output.
+<img src="49.png" style="width:100"/>
