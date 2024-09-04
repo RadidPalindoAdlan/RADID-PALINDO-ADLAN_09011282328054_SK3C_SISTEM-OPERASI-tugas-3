@@ -84,7 +84,7 @@ Perintah **sudo apt install btop** digunakan untuk mengunduh dan menginstal apli
 
 ## 20. kill
 **kill** di Linux digunakan untuk mematikan proses yang dijalankan sistem
-<img src="18.png" style="width:100"/>
+<img src="18(1).png" style="width:100"/>
 
 ## 21. ifconfig
 **ifconfig** di Linux digunakan untuk melihat deskripsi network yang sedang tersambung ke dalam sistem
