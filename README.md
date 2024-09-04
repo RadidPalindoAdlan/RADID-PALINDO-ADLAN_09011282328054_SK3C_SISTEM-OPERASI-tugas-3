@@ -179,3 +179,8 @@ Perintah **sudo apt install btop** digunakan untuk mengunduh dan menginstal apli
 ## 42. unzip
 **unzip** untuk mengekstrak file.zip.
 <img src="41.png" style="width:100"/>
+
+## 43. unzip
+**unzip** untuk mengekstrak file.zip.
+<img src="42.png" style="width:100"/>
+
