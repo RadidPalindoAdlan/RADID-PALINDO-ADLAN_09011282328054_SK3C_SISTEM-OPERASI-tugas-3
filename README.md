@@ -53,6 +53,134 @@ Perintah **sudo apt install btop** digunakan untuk mengunduh dan menginstal apli
 **du** (disk usage) di Linux digunakan untuk menampilkan penggunaan ruang disk oleh file dan direktori.\
 <img src="10.png" style="width:100"/>
 
+## 11. ls
+**ls** Di Linux digunakan untuk menampilkan list file dan folder.\
+<img src="11.png" style="width:100"/>
 
+## 12. pwd
+**pwd** di Linux digunakan menampilkan jalur direktori di terminal saat ini
+<img src="12.png" style="width:100"/>
 
+## 13. whoami
+**pwd** di Linux digunakan menampilkan nama user yang sedang beroperasi di terminal
+<img src="13.png" style="width:100"/>
 
+## 14. mkdir
+**pwd** di Linux digunakan untuk membuat suatu direktori
+<img src="14.png" style="width:100"/>
+
+## 15. touch
+**pwd** di Linux digunakan untuk membuat file dengan format apapun
+<img src="14.png" style="width:100"/>
+
+## 16. cat
+**pwd** di Linux digunakan untuk mengisi file lewat terminal
+<img src="14.png" style="width:100"/>
+
+## 17. who
+**pwd** di Linux digunakan untuk melihat user yang telah login
+<img src="15.png" style="width:100"/>
+
+## 18. ps
+**pwd** di Linux digunakan untuk melihat proses apa saja yang sedang berjalan di sistem
+<img src="16.png" style="width:100"/>
+
+## 19. cal
+**pwd** di Linux digunakan untuk melihat kalender
+<img src="17.png" style="width:100"/>
+
+## 20. kill
+**pwd** di Linux digunakan untuk mematikan proses yang dijalankan sistem
+<img src="18.png" style="width:100"/>
+
+## 21. ifconfig
+**pwd** di Linux digunakan untuk melihat deskripsi network yang sedang tersambung ke dalam sistem
+<img src="19.png" style="width:100"/>
+
+## 22. uname
+**pwd** di Linux digunakan untuk melihat deskripsi singkat tentang sistem kita
+<img src="20.png" style="width:100"/>
+
+## 23. netstat
+**pwd** di Linux digunakan untuk melihat deskripsi tentang jaringan yang tersambung dalam sistem kita
+<img src="21.png" style="width:100"/>
+
+## 24. top
+**pwd** di Linux digunakan untuk melihat deskripsi sistem kita yang sedang berjalan secara real time
+<img src="22.png" style="width:100"/>
+<img src="22a.png" style="width:100"/>
+
+## 25. file
+**pwd** di Linux digunakan untuk menentukan suatu file format berdasarkan isi dari file
+<img src="23.png" style="width:100"/>
+
+## 26. nethogs
+**pwd** di Linux digunakan untuk melihat bandwidth jaringan
+<img src="24.png" style="width:100"/>
+<img src="24a.png" style="width:100"/>
+
+## 27. help
+**pwd** di Linux digunakan untuk melihat beberapa list command
+<img src="25.png" style="width:100"/>
+
+## 28. help
+**pwd** di Linux digunakan untuk melihat beberapa list command
+<img src="25.png" style="width:100"/>
+
+## 29. rm
+**pwd** di Linux digunakan untuk menghapus file atau direktori
+<img src="26.png" style="width:100"/>
+
+## 30. grep
+**pwd** di Linux digunakan untuk mencari pola atau teks tertentu 
+<img src="27.png" style="width:100"/>
+
+## 31. history
+**pwd** di Linux digunakan untuk melihat histori command yang telah dijalankan user
+<img src="28.png" style="width:100"/>
+
+## 32. free
+**pwd** di Linux digunakan untuk melihat memory yang terpakai dan sisanya
+<img src="29.png" style="width:100"/>
+
+## 33. man
+**pwd** di Linux digunakan untuk melihat fungsi suatu command lewat manual yang diberikan linux
+<img src="30.png" style="width:100"/>
+<img src="30a.png" style="width:100"/>
+
+## 34. ping
+**pwd** di Linux digunakan untuk melihat kelancaran koneksi jaringan kita
+<img src="31.png" style="width:100"/>
+
+## 35. traceroute
+**pwd** di Linux digunakan untuk melihat rute ke host
+<img src="32.png" style="width:100"/>
+
+## 36. nano
+**pwd** di Linux ialah suatu editor teks dalam terminal
+<img src="34.png" style="width:100"/>
+<img src="34a.png" style="width:100"/>
+
+## 37. echo
+**pwd** di Linux digunakan untuk mengeluarkan input yang kita ketik dalam terminal
+<img src="35.png" style="width:100"/>
+
+## 38. cd
+**pwd** di Linux digunakan untuk mengganti direktori yang digunakan terminal
+<img src="36.png" style="width:100"/>
+
+## 39. hostnamectl
+**pwd** di Linux digunakan untuk  menampilkan dan mengelola informasi tentang nama host
+<img src="37.png" style="width:100"/>
+
+## 40. head
+**pwd** di Linux digunakan untuk  menampilkan beberapa baris pertama dari suatu file txt
+<img src="38.png" style="width:100"/>
+
+## 41. tail
+**pwd** di Linux digunakan untuk  menampilkan beberapa baris terakhir dari suatu file txt
+<img src="39.png" style="width:100"/>
+
+## 42. tail
+**pwd** di Linux digunakan untuk  menampilkan beberapa baris terakhir dari suatu file txt
+<img src="40.png" style="width:100"/>
