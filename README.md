@@ -60,48 +60,48 @@ Perintah **sudo apt install btop** digunakan untuk mengunduh dan menginstal apli
 
 ## 14. mkdir
 **mkdir** di Linux digunakan untuk membuat suatu direktori
-<img src="14.png" style="width:100"/>
+<img src="14(1).png" style="width:100"/>
 
 ## 15. touch
 **touch** di Linux digunakan untuk membuat file dengan format apapun
-<img src="15.png" style="width:100"/>
+<img src="14(2).png" style="width:100"/>
 
 ## 16. cat
 **cat** di Linux digunakan untuk mengisi file lewat terminal
-<img src="16.png" style="width:100"/>
+<img src="14(3).png" style="width:100"/>
 
 ## 17. who
 **who** di Linux digunakan untuk melihat user yang telah login
-<img src="17.png" style="width:100"/>
+<img src="15.png" style="width:100"/>
 
 ## 18. ps
 **ps** di Linux digunakan untuk melihat proses apa saja yang sedang berjalan di sistem
-<img src="18.png" style="width:100"/>
+<img src="16.png" style="width:100"/>
 
 ## 19. cal
 **cal** di Linux digunakan untuk melihat kalender
-<img src="19.png" style="width:100"/>
+<img src="17.png" style="width:100"/>
 
 ## 20. kill
 **kill** di Linux digunakan untuk mematikan proses yang dijalankan sistem
-<img src="20.png" style="width:100"/>
+<img src="18.png" style="width:100"/>
 
 ## 21. ifconfig
 **ifconfig** di Linux digunakan untuk melihat deskripsi network yang sedang tersambung ke dalam sistem
-<img src="21.png" style="width:100"/>
+<img src="19.png" style="width:100"/>
 
 ## 22. uname
 **uname** di Linux digunakan untuk melihat deskripsi singkat tentang sistem kita
-<img src="22.png" style="width:100"/>
+<img src="20.png" style="width:100"/>
 
 ## 23. netstat
 **netstat** di Linux digunakan untuk melihat deskripsi tentang jaringan yang tersambung dalam sistem kita
-<img src="23.png" style="width:100"/>
+<img src="21.png" style="width:100"/>
 
 ## 24. top
 **top** di Linux digunakan untuk melihat deskripsi sistem kita yang sedang berjalan secara real time
-<img src="24.png" style="width:100"/>
-<img src="24a.png" style="width:100"/>
+<img src="22.png" style="width:100"/>
+<img src="22a.png" style="width:100"/>
 
 ## 25. file
 **file** di Linux digunakan untuk menentukan suatu file format berdasarkan isi dari file
@@ -122,7 +122,7 @@ Perintah **sudo apt install btop** digunakan untuk mengunduh dan menginstal apli
 
 ## 29. grep
 **grep** di Linux digunakan untuk mencari pola atau teks tertentu 
-<img src="27.png" style="width:100"/>
+<img src="27(1).png" style="width:100"/>
 
 ## 30. history
 **history** di Linux digunakan untuk melihat histori command yang telah dijalankan user
@@ -173,3 +173,7 @@ Perintah **sudo apt install btop** digunakan untuk mengunduh dan menginstal apli
 ## 41. zip
 **zip** untuk mengekstrak file kedalam bentuk zip.
 <img src="40.png" style="width:100"/>
+
+## 42. unzip
+**unzip** untuk mengekstrak file.zip.
+<img src="41.png" style="width:100"/>
