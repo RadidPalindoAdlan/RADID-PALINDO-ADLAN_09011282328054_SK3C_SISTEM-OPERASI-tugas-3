@@ -201,5 +201,11 @@ Perintah **sudo apt install btop** digunakan untuk mengunduh dan menginstal apli
 <img src="46.png" style="width:100"/>
 
 ## 48. vmstat
-**last** di Linux digunakan untuk mengetahui informasi sistem tentang penggunaan memori, swap, cpu, serta input output.
+**vmstat** di Linux digunakan untuk mengetahui informasi sistem tentang penggunaan memori, swap, cpu, serta input output.
 <img src="49.png" style="width:100"/>
+
+## 49. shutdown
+**shutdown** di Linux digunakan untuk mematikan sistem lewat terminal
+
+## 50. reboot
+**reboot** di Linux digunakan untuk merestart sistem lewat terminal
